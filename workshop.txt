@@ -1,0 +1,6 @@
+version=1
+id=2796616455
+title=Spearbreaker
+description=Swap broken spears for new ones without using the inventory menu
+tags=Build 41;Weapons
+visibility=friendsOnly
