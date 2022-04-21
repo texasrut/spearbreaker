@@ -1,2 +1,0 @@
-# spearbreaker
-Zomboid spearbreaker mod
